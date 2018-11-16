@@ -3,7 +3,7 @@ layout: post
 title: My First Post!
 ---
 
-Welcome to my brand new blog!
+Welcome to my brand new blog! Sarah was here.
 
 ## What this blog is for
 
